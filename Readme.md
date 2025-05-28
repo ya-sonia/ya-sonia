@@ -1,8 +1,4 @@
-<details> <summary>💻 <b>
-    <video width="640" height="360" autoplay muted loop>
-  <source src="banner.mp4" type="video/mp4" />
-</video>
-</b></summary>
+
 
 
 <h1 align="center">Hi 👋, I'm Sonia Yadav</h1>
