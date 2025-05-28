@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="front_banner.gif" alt="Video Banner" width="640" height="700" />
+  <img src="front_banner.gif" alt="Video Banner" width="900" height="400" />
 </p>
 
 
