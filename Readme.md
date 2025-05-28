@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.gif" alt="Video Banner" width="640" height="360" />
+</p>
 
 
 
