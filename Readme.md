@@ -33,9 +33,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ya-sonia&show_icons=true&locale=en&layout=compact" alt="ya-sonia" /></p>
-<br>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ya-sonia&show_icons=true&locale=en" alt="ya-sonia" /></p>
-<br>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ya-sonia&" alt="ya-sonia" /></p>
