@@ -36,7 +36,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,py,react,nodejs,expressjs,mongodb,redis,git,github,linux,postman,latex,markdown,mysql,sqlite,docker,scikitlearn,tensorflow,netlify,vscode,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,tailwind,py,react,nodejs,expressjs,mongodb,redis,git,github,linux,postman,django,Machine Learning,RestApi ,latex,markdown,mysql,sqlite,docker,scikitlearn,tensorflow,netlify,vscode,bash&perline=10" />
   </a>
 </p>
 
